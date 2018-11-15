@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CheckedListBoxExControl.cs](./CS/DxSample/Editors/CheckedListBoxExControl.cs) (VB: [CheckedListBoxExControl.vb](./VB/DxSample/Editors/CheckedListBoxExControl.vb))
+* [CheckedListBoxExControlHandler.cs](./CS/DxSample/Editors/CheckedListBoxExControlHandler.cs) (VB: [CheckedListBoxExControlHandler.vb](./VB/DxSample/Editors/CheckedListBoxExControlHandler.vb))
+* **[MainForm.cs](./CS/DxSample/MainForm.cs) (VB: [MainForm.vb](./VB/DxSample/MainForm.vb))**
+<!-- default file list end -->
 # How to disable the label-click action for CheckedListBoxControl
 
 
