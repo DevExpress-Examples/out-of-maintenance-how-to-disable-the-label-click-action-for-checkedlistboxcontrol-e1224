@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Q144679/Form1.cs) (VB: [Form1.vb](./VB/Q144679/Form1.vb))
+* [MyCheckedListBoxControl.cs](./CS/Q144679/MyCheckedListBoxControl.cs) (VB: [MyCheckedListBoxControl.vb](./VB/Q144679/MyCheckedListBoxControl.vb))
+* [Program.cs](./CS/Q144679/Program.cs) (VB: [Program.vb](./VB/Q144679/Program.vb))
+<!-- default file list end -->
 # How to disable the label-click action for CheckedListBoxControl
 
 
